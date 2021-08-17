@@ -4,7 +4,7 @@ namespace Calculator
 {
     public class Calculator
     {
-        public double total = 0;
+        public double total;
         public double firstNumber = 0;
         public double secondNumber = 0;
         public char operation = ' ';
